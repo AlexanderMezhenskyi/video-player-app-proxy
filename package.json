@@ -2,5 +2,7 @@
   "name": "cors-proxy-vercel",
   "version": "1.0.0",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {
+    "@vercel/node": "^5.1.14"
+  }
 }
